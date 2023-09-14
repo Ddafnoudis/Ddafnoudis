@@ -4,9 +4,7 @@ I am a **MSc student in Applied Bioinformatics** at Aristotle University of Thes
 
 
 <p align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ddafnoudis) 
-</p>
-<p aligh="center">
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ddafnoudis)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dimitris-dafnoudis-534702144/)  
 </p>
 
