@@ -13,7 +13,7 @@
 <div align="center">
 <table>
 <tr>
-<th><h3>Socials</h3></th>
+<th><h3>Social Accounts</h3></th>
 <th><h3>Programming Skills</h3></th>
 </tr>
 <tr>
