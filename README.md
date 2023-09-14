@@ -4,3 +4,4 @@ I am a MSc student in Applied Bioinformatics at Aristotle University of Thessalo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ddafnoudis)](https://github.com/anuraghazra/github-readme-stats)
 Warning
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ddafnoudis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ddafnoudis/)  
