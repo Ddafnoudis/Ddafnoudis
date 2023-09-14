@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <em>I am a <strong>MSc student in Applied Bioinformatics</strong> at Aristotle University of Thessaloniki.
+  <em>I am a <strong>MSc student in Applied Bioinformatics </strong> at <em class="custom-link-style"><a href="https://www.auth.gr/en/" target="_blank" rel="noreferrer">Aristotle University of Thessaloniki</a></em>.
   I have been practicing bioinformatics and cancer research for about 1.5 years, and I'm passionate about genomics, transcriptomics, and metatranscriptomics.
   How do I manage with those Giants? Well, I utilize a box called the "bioinformatic toolchain" using <strong>R</strong>, <strong>Python</strong>, and <strong>Bash</strong> for tasks such as Next Generation Sequencing analysis, scRNA-seq analysis, machine learning, etc.</em>
 </div>
@@ -36,7 +36,4 @@
 <h3>Badges
 </h3>
 <a href="https://github.com/Ddafnoudis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddafnoudis&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
 
