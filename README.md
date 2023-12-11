@@ -4,8 +4,8 @@
 
 <div align="center">
   <em>I am a <strong>MSc student in Applied Bioinformatics </strong> at <em class="custom-link-style"><a href="https://www.auth.gr/en/" target="_blank" rel="noreferrer">Aristotle University of Thessaloniki</a></em>.
-  I have been practicing bioinformatics and cancer research for about 1.5 years, and I'm passionate about genomics, transcriptomics, and metatranscriptomics.
-  How do I manage with those Giants? Well, I utilize a box called the "bioinformatic toolchain" using <strong>R</strong>, <strong>Python</strong>, and <strong>Bash</strong> for tasks such as Next Generation Sequencing analysis, scRNA-seq analysis, machine learning, etc.</em>
+  I'm passionate about genomics, transcriptomics and machine learning.
+  So, how do I manage with those Giants? Well, I utilize a box called the "bioinformatic toolchain" using <strong>R</strong>, <strong>Python</strong>, and <strong>Bash</strong> for tasks such as Next Generation Sequencing analysis, scRNA-seq analysis, machine learning, etc.</em>
 </div>
 <br/>
 
