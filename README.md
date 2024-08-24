@@ -9,4 +9,7 @@ I have passion in Multiomics, Deep Leaning and Software Developemnt.
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />](github)
 [<img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />](github)
 
+### Social Media
+[<img align="left" alt="LinkedIn" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/dimitris-dafnoudis-534702144/)
+
 
