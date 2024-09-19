@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Dimitris 
 
 ## I'm a Bioinformatician 
-I'm passionate about Multiomics, Deep Leaning and Software Developemnt.
+I am a dedicated Bioinformatics and Biomedical Science researcher with expertise in applying Machine Learning and Deep Learning to complex challenges across biotechnology, precision medicine, and omics data analysis. Worked closely with experienced PhD students in a broad-range of projects, preprocessing and applying Deep Learning techniques in Electronic Heath Records of Danish hospitals. Experienced in Software Development, Graph Networks and Web Scraping. Proven experience in projects using Python, R and Bash. 
 
 ### Current stack
 [<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />](github)
