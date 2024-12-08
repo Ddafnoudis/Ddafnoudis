@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Dimitris 
  
 ### Interests:
-#### Bioinformatics, Deep Learning, Cancer
+#### 1) Bioinformatics
+#### 2) Deep Learning
+#### 3) Cancer
 
 ### Current stack
 [<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />](github)
