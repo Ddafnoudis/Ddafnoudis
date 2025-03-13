@@ -12,7 +12,7 @@
 [<img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />](github)
 [<img align="left" alt="R" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" />](github)
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />](github)
-[<img align="left" alt="Visual Studio Code" width="50px"m src=https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />](github)
+[<img align="left" alt="Latex" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />](github)
 <br/><br/>
 
 ----------------------------------------------------------------------------
