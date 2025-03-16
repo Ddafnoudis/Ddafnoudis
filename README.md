@@ -13,6 +13,7 @@ In my recent role as Deep Learning and Bioinformatics intern in Søren Brunak's 
 [<img align="middle" alt="Latex" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" />](github)
 [<img align="middle" alt="Tensorflow" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />](github)
 [<img align="middle" alt="PyTorch" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />](github)
+[<img align="middle" alt="Git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />](github)
 
 ----------------------------------------------------------------------------
 
