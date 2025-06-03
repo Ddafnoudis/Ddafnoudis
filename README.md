@@ -14,7 +14,7 @@
 ### Social Media
 [<img align="left" alt="LinkedIn" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/dimitris-dafnoudis-534702144/)
 
----
+----------------------------------------------------------------------------
 
 <details>
 <p align="center">
