@@ -15,3 +15,4 @@
 [<img align="left" alt="LinkedIn" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/dimitris-dafnoudis-534702144/)
 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
